@@ -50,7 +50,7 @@ Users should be able to:
 ## Author
 
 - Linkedin - [Mitesh Panchal](https://www.linkedin.com/in/mitesh-panchal-356558126/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/miteshp98)
+- Frontend Mentor - [@miteshp98](https://www.frontendmentor.io/profile/miteshp98)
 
 
 ## Acknowledgments
