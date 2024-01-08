@@ -23,7 +23,14 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-![htmlcode](https://github.com/miteshp98/blog-preview-card-main/assets/design_screenshot/htmlcode.png)
+
+![htmlcode](https://github.com/miteshp98/blog-preview-card-main/assets/145320555/b16791b6-13ea-443e-90ae-4e824d350e86)
+
+![csscode](https://github.com/miteshp98/blog-preview-card-main/assets/145320555/ffd02270-2a13-4206-b82c-d64122b24013)
+
+![Macbook_screenshot](https://github.com/miteshp98/blog-preview-card-main/assets/145320555/b396eb31-8576-4c54-8a54-c9f33a5f4319)
+
+![Iphone_screenshot](https://github.com/miteshp98/blog-preview-card-main/assets/145320555/d926ccc9-5a3e-44f4-8bda-727a11648fb6)
 
 
 ### Links
