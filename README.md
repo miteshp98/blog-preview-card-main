@@ -24,15 +24,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design_screenshot/Macbook_screenshot.png)
+![](design_screenshot/Macbook_screenshot.png)
 
-![](./design_screenshot/Iphone_screenshot.png)
+![](design_screenshot/Iphone_screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/miteshp98/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/miteshp98/blog-preview-card-main)
+- Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ## My process
 
