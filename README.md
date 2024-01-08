@@ -31,7 +31,7 @@ Users should be able to:
 ![image](./design_screenshot/htmlcode.png)
 ![image](./design_screenshot/csscode.png)
 
- ![alt text](https://github.com/[miteshp98]/[blog-preview-card-main]/blob/master/htmlcode.png?raw=true) 
+ ![alt text](https://github.com/miteshp98/blog-preview-card-main/blob/master/design_screenshot/htmlcode.png?raw=true) 
 
 
 ### Links
