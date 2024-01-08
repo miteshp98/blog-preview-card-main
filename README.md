@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](design_screenshot/Macbook_screenshot.png)
+![Macbook_screenshot](./design_screenshot/Macbook_screenshot.png)
 
-![](design_screenshot/Iphone_screenshot.png)
+![Iphone_screenshot](./design_screenshot/Iphone_screenshot.png)
 
 
 ### Links
