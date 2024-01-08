@@ -31,7 +31,7 @@ Users should be able to:
 ![image](./design_screenshot/htmlcode.png)
 ![image](./design_screenshot/csscode.png)
 
-<img src="/design/htmlcode.png" alt="alt text" />
+![HTML Code](./design_screenshot/htmlcode.png "Description goes here")
 
 
 ### Links
