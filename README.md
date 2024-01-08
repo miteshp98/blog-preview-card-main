@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Macbook_screenshot](./design_screenshot/Macbook_screenshot.jpg)
+![image](./design_screenshot/Macbook_screenshot.jpg)
 
-![Iphone_screenshot](./design_screenshot/Iphone_screenshot.jpg)
+![image](./design_screenshot/Iphone_screenshot.jpg)
 
-![HTML Code](./design_screenshot/htmlcode.png)
-![CSS Code](./design_screenshot/csscode.png)
+![image](./design_screenshot/htmlcode.png)
+![image](./design_screenshot/csscode.png)
 
 
 ### Links
