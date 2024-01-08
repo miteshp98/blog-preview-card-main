@@ -24,15 +24,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design_screenshot/Macbook_screenshot.png)
+![Macbook_screenshot](./design_screenshot/Macbook_screenshot.png)
 
-![](./design_screenshot/Iphone_screenshot.png)
+![Iphone_screenshot](./design_screenshot/Iphone_screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/miteshp98/blog-preview-card-main)
+- Live Site URL: [live site URL](https://miteshp98.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -50,7 +50,7 @@ Users should be able to:
 ## Author
 
 - Linkedin - [Mitesh Panchal](https://www.linkedin.com/in/mitesh-panchal-356558126/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/miteshp98)
+- Frontend Mentor - [@miteshp98](https://www.frontendmentor.io/profile/miteshp98)
 
 
 ## Acknowledgments
